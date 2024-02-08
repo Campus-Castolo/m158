@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python App</title>
+    <script src="{{ url_for('static', filename='js/uikit.min.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/uikit.min.css') }}">
+</head>
+<body>
+
+    <!--navigation-->
+
+    <nav class="uk-navbar-container">
+        <div class="uk-container">
+            <div uk-navbar>
+    
+                <div class="uk-navbar-left">
+    
+                    <ul class="uk-navbar-nav">
+                        <li class="uk-active"><a href="#">Active</a></li>
+                        <li>
+                            <a href="#">Modules</a>
+                            <div class="uk-navbar-dropdown">
+                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                    <li class="uk-active"><a href="#">Monitoring</a></li>
+                                    <li><a href="/pcinfo">pcinfo</a></li>
+                                    <li><a href="#">network_activity</a></li>
+                                    <li><a href="#">storage</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+    
+                </div>
+    
+            </div>
+        </div>
+    </nav>
+    
+    
+    <!--navigation-->
+
+    <div class="uk-container uk-margin-top">
+    <h1>Hello, this is your Python app!</h1>
+    <p>Welcome to the world of Flask and HTML rendering.</p>
+</div>
+</body>
+</html>
