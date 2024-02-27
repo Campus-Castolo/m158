@@ -3,17 +3,13 @@ plan and execute software migration
 
  ---
 
-## [theory](theory/readme.md)
+## [theory](knowledge_base/readme.md)
 everything theory related
 
 ---
 
-## [practical](practical/README.md)
-proving that I know the theory
-
----
-
-## [Projectdocumentation]()
+## [Projectdocumentation](projectdocumentation/readme.md)
+Planning project and documenting the migration
 
 ---
 
