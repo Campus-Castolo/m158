@@ -13,10 +13,19 @@
 - Note down custom code snippets or modifications.
   
 - Document the current hosting environment and configurations.
-  
+
+Identifying all existing plugins is really quite easy, you can do so by doing the following:
+
+Step 1: Log in with your credentials.
+Step 2: Go to “System Definition”.
+Step 3: Click on “Plugins”.
+Step 4: Check the names and descriptions.
+Step 5: Use search, if needed.
+Step 6: Note extra info, such as version numbers and dependencies.
 
 ### 2. Set Clear Objectives:
 - Define the specific goals of the migration (e.g., improved performance, updated design).
+- 
 We want to migrate the website from the former platform including wordpress and the database onto the proxomox enviornment.
 
 - Outline any additional features or improvements desired.
