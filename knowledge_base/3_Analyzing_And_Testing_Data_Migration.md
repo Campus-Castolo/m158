@@ -37,3 +37,11 @@ In this phase, the focus shifts to the practical aspect of ensuring the smooth f
 
 **f. Validation of Compatibility:**
    Ensure that the new software is compatible with existing systems and interfaces. Picture this as ensuring that a new gadget seamlessly integrates with your existing tech ecosystem at home – avoiding any disruptions or conflicts.
+
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
