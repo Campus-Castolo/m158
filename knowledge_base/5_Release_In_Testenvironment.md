@@ -37,3 +37,11 @@ Once the testing phase is complete, the next step involves preparing and submitt
   - Clearly articulate how the migration meets or exceeds the defined acceptance criteria and complies with security and regulatory guidelines.
 
 By following these detailed steps, you can systematically test the migration in the test environment and prepare a robust release request for a smooth transition to the new version or software.
+
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
