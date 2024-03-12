@@ -17,10 +17,15 @@
 Identifying all existing plugins is really quite easy, you can do so by doing the following:
 
 Step 1: Log in with your credentials.
+
 Step 2: Go to “System Definition”.
+
 Step 3: Click on “Plugins”.
+
 Step 4: Check the names and descriptions.
+
 Step 5: Use search, if needed.
+
 Step 6: Note extra info, such as version numbers and dependencies.
 
 ### 2. Set Clear Objectives:
