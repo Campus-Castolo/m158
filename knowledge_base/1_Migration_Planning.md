@@ -76,3 +76,11 @@
 
 - **Document the Tech Drama:**
   Don't forget to jot down all the techie details. Create a solid document that spills the beans on what you found in the system setup, data check, security scan, and compatibility trials. It's like creating a cheat sheet you can refer back to during the whole switcheroo. This way, every decision you make is like a cool move on the tech chessboard.
+
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
