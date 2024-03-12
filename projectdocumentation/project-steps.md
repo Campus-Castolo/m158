@@ -44,3 +44,11 @@
 
 ### 9. Post-Migration Monitoring:
 - Have a general plan for monitoring but refine it based on post-migration feedback and observations.
+
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
