@@ -81,6 +81,13 @@
       - Implement robust version control mechanisms for documentation.
       - Track changes systematically, allowing for a clear understanding of when modifications were made and what they entail.
 
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
    iii. **Validation Through Simulation:**
       - Simulate the migration process using a controlled environment.
       - Validate that the documentation aligns effectively with the actual steps taken during the migration.
