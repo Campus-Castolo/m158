@@ -9,13 +9,20 @@
 
 ### 1. Preliminary Assessment:
 - Identify all existing plugins and themes on the current site.
+  
 - Note down custom code snippets or modifications.
+  
 - Document the current hosting environment and configurations.
+  
 
 ### 2. Set Clear Objectives:
 - Define the specific goals of the migration (e.g., improved performance, updated design).
+We want to migrate the website from the former platform including wordpress and the database onto the proxomox enviornment.
+
 - Outline any additional features or improvements desired.
+  
 - Use GitHub Projects for example
+  
 - Make Timeline for this
 
 ### 3. Choose a New Hosting Provider:
