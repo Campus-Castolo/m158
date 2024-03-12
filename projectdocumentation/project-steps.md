@@ -29,6 +29,7 @@
 ### 5. Migration Process:
 - Document step-by-step procedures for migrating the database, themes, plugins, and media files.
 - Address potential issues and create contingency plans.
+- Make a graphic to represent the migration progress (rough)
 
 ### 6. Theme and Plugin Compatibility:
 - Check and update themes and plugins for compatibility with the new WordPress version.
@@ -40,7 +41,7 @@
 ### 8. Communication Plan:
 - Inform stakeholders, including users, about the migration plan.
 - Provide detailed instructions for any necessary actions on their part.
-- What happens if any unforseen actions occur
+- What happens if any unforseen actions occur (make graphic for this highlighting the rough communication)
 
 ### 9. Post-Migration Monitoring:
 - Have a general plan for monitoring but refine it based on post-migration feedback and observations.
