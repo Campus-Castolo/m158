@@ -51,3 +51,11 @@ Let's talk scalability. Understand how the software handles growth and increased
 
 **2.6 Security Configuration Mastery:**
 Become the guardian of security configurations. Delve into user access controls, encryption methods, and authentication protocols. Ensure our software is Fort Knox secure without sacrificing usability.
+
+---
+
+# Navigation
+
+[Back to Main](../README.md)
+
+[To Wiki](https://github.com/Campus-Castolo/m158/wiki/)
