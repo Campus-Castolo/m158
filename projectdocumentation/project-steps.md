@@ -57,6 +57,9 @@ For this step it is crucial to weigh each aspects against eachother. For example
 | **AI/ML Services**   | SageMaker, Rekognition, Polly      | Azure Machine Learning, Cognitive Services | Machine Learning Platform, MaxCompute, AI |
 | **IoT**              | AWS IoT Core, Greengrass           | Azure IoT Hub, IoT Edge                    | IoT Platform                              |
 
+However this isn't important to us, since we were generously provided a proxomox enviornment on which we can host our client and server.
+Our server is a Ubuntu server and our client is a Windows 10 client. 
+
 ### 5. Migration Process:
 - Document step-by-step procedures for migrating the database, themes, plugins, and media files.
 - Address potential issues and create contingency plans.
