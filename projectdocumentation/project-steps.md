@@ -1,6 +1,6 @@
 # Project Planning
 
-## forming a team
+## Forming a team
 | Team Name       | Member 1       | Member 2              |
 |-----------------|----------------|-----------------------|
 | LazyFirefox9882 | Rayan Lee Bopp | Florian Merlin Fröbel |
@@ -8,40 +8,58 @@
 ## Project planning
 
 ### 1. Preliminary Assessment:
-- Identify all existing plugins and themes on the current site.
-  
-- Note down custom code snippets or modifications.
-  
-- Document the current hosting environment and configurations.
+Before migrating any service it is important to do a preliminary assessment of the existing service.
 
-Identifying all existing plugins is really quite easy, you can do so by doing the following:
+For example this can be achieved by identifying what needs to be migrated (Data, Plugins, Themes, etc.)
 
-Step 1: Log in with your credentials.
+Now to find out what Data needs to be transfered. For this one could make a SQL dump file from the existing Wordpress database and just insert it into the new one.
 
-Step 2: Go to “System Definition”.
+As for the Plugins it is important to know what Plugins the site currently uses, this can be checked by doing the following:
 
-Step 3: Click on “Plugins”.
-
-Step 4: Check the names and descriptions.
-
-Step 5: Use search, if needed.
-
-Step 6: Note extra info, such as version numbers and dependencies.
+    Step 1: Log in with your credentials.
+    Step 2: Go to “System Definition”.
+    Step 3: Click on “Plugins”.
+    Step 4: Check the names and descriptions.
+    Step 5: Use search, if needed.
 
 ### 2. Set Clear Objectives:
-- Define the specific goals of the migration (e.g., improved performance, updated design).
-- 
-We want to migrate the website from the former platform including wordpress and the database onto the proxomox enviornment.
+Setting a clear objective in any situation is a must, especially when you are planning a website migraiton from host to another host.
+
+However defining goals requires a deep understand of the overlaying subject. In this instance it is advised to have a basic understanding of how a migration is executed and how a wordpress site operates.
+
+Below are the basic necessary steps to complete a migration of a wordpress website with the end goal of **migrating the wordpress website from the former host to the new host, including the database and all the plugins itself.** In our case this would be worded like the following: ***"We want to migrate the wordpress website from the former host onto the proxomox enviornment with the old dataset and plugins"***
+
+1. Content Preservation 
+2. Functionality Maintenance
+3. SEO Preservation
+4. Data Integrity and Security
+5. Documentation and Backup
+
+These are 5 common practices when migrating a wordpress website according to guides and other specialists.
 
 - Outline any additional features or improvements desired.
-  
-- Use GitHub Projects for example
-  
-- Make Timeline for this
+
+Additionally one could look into known voulnerabilites in plugins and swap them out for similar ones. This would the main point of concern in point 4 `4. Data Integrity and Security.`
 
 ### 3. Choose a New Hosting Provider:
 - Research and compare hosting providers.
 - Review server specifications and features.
+
+For this step it is crucial to weigh each aspects against eachother. For example if you want to migrate the wordpress website onto the cloud it is important to compare the two or even three different cloud providers with eachother however, this would be done by making a table a comparing functionality based on categories. This would look something akin to this:
+
+| **Feature**          | **AWS**                            | **Azure**                                  | **Alibaba Cloud**                         |
+|----------------------|------------------------------------|--------------------------------------------|-------------------------------------------|
+| **Cloud Services**   | Widest range of services           | Comprehensive services portfolio           | Growing portfolio of services             |
+| **Global Reach**     | Extensive global presence          | Global data center footprint               | Rapidly expanding globally                |
+| **Market Share**     | Largest market share               | Second-largest market share                | Growing presence globally                 |
+| **Compute Services** | EC2, Lambda, ECS, EKS              | Virtual Machines, App Service              | ECS, Elastic Compute Service              |
+| **Storage Services** | S3, EBS, Glacier                   | Blob Storage, Disk Storage                 | Object Storage, OSS                       |
+| **Pricing Model**    | Pay-as-you-go, usage-based pricing | Similar to AWS, usage-based                | Competitive pricing models                |
+| **Networking**       | VPC, Direct Connect, Route 53      | Virtual Network, ExpressRoute              | Virtual Private Cloud, VPC                |
+| **Database**         | RDS, DynamoDB, Aurora              | SQL Database, Cosmos DB                    | ApsaraDB, PolarDB                         |
+| **AI/ML Services**   | SageMaker, Rekognition, Polly      | Azure Machine Learning, Cognitive Services | Machine Learning Platform, MaxCompute, AI |
+| **IoT**              | AWS IoT Core, Greengrass           | Azure IoT Hub, IoT Edge                    | IoT Platform                              |
+
 
 ### 4. Backup and Testing:
 - Create a detailed backup of the current site, including the database and files.
