@@ -42,9 +42,6 @@ These are 5 common practices when migrating a wordpress website according to gui
 Additionally one could look into known voulnerabilites in plugins and swap them out for similar ones. This would the main point of concern in point 4 `4. Data Integrity and Security.`
 
 ### 3. Choose a New Hosting Provider:
-- Research and compare hosting providers.
-- Review server specifications and features.
-
 For this step it is crucial to weigh each aspects against eachother. For example if you want to migrate the wordpress website onto the cloud it is important to compare the two or even three different cloud providers with eachother however, this would be done by making a table a comparing functionality based on categories. This would look something akin to this:
 
 | **Feature**          | **AWS**                            | **Azure**                                  | **Alibaba Cloud**                         |
