@@ -60,11 +60,6 @@ For this step it is crucial to weigh each aspects against eachother. For example
 | **AI/ML Services**   | SageMaker, Rekognition, Polly      | Azure Machine Learning, Cognitive Services | Machine Learning Platform, MaxCompute, AI |
 | **IoT**              | AWS IoT Core, Greengrass           | Azure IoT Hub, IoT Edge                    | IoT Platform                              |
 
-
-### 4. Backup and Testing:
-- Create a detailed backup of the current site, including the database and files.
-- Set up a staging environment to test the migration thoroughly.
-
 ### 5. Migration Process:
 - Document step-by-step procedures for migrating the database, themes, plugins, and media files.
 - Address potential issues and create contingency plans.
