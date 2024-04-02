@@ -24,3 +24,8 @@ Planning project and documenting the migration
 
 ## [Journal: RLB](https://github.com/Campus-Castolo/m158/wiki/Journal:-RLB)
 Weekly Journal of RLB
+
+## [Journal: FMF](https://github.com/Campus-Castolo/m158/wiki/Journal:-FMF)
+Weekly Journal of FMF
+
+
