@@ -1,5 +1,8 @@
 # m158
 plan and execute software migration
+This is the documentation for the migration project for the m158 module.
+
+The project was conducted by FMF and RLB
 
  ---
 
