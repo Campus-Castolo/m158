@@ -16,6 +16,11 @@ Planning project and documenting the migration
 
 ---
 
+## [Migration Documentation](Doc-migration.md)
+Documentation for Migration (only aha moments and the most important steps)
+
+---
+
 ## To-Do
 | Status | Task name             | Task description                                                                          |
 |--------|-----------------------|-------------------------------------------------------------------------------------------|
